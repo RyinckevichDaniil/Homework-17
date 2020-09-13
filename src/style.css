@@ -1,0 +1,10 @@
+ul {
+    outline: 2px solid green;
+    padding: 30px;
+};
+
+li {
+    color: red;
+    font-size: 17px;
+    padding: 10px;
+};
